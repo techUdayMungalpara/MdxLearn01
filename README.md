@@ -1,0 +1,3 @@
+- https://delba.dev/
+- https://www.youtube.com/watch?v=n2CV6f0vFr4&ab_channel=HamedBahram
+- https://nextjs.org/docs/app/building-your-application/configuring/mdx
